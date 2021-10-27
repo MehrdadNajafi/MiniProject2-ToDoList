@@ -5,7 +5,7 @@
 ✅ Separate done tasks and unfinished tasks in two separate tabs\
 ✅ The background color fo High priority tasks are red and the normal tasks are blue\
 ✅ You can see the detail of task (title, description, time, date) by clicking on it\
-✅ You can delete and add a task (also in database)
+✅ You can delete and add a task (also in database)\
 ✅ Included the exe file for run the program
 ## Screen Shots
 ![Screenshot (8)](https://user-images.githubusercontent.com/88179607/138962419-bc2fada5-144c-47af-aaca-70e4ef8993fa.png)
